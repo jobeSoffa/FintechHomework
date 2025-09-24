@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FintechHomework/static/css/main.e6c13ad2.css",
+    "main.js": "/FintechHomework/static/js/main.c264c491.js",
+    "static/js/453.ffb42ed8.chunk.js": "/FintechHomework/static/js/453.ffb42ed8.chunk.js",
+    "index.html": "/FintechHomework/index.html",
+    "main.e6c13ad2.css.map": "/FintechHomework/static/css/main.e6c13ad2.css.map",
+    "main.c264c491.js.map": "/FintechHomework/static/js/main.c264c491.js.map",
+    "453.ffb42ed8.chunk.js.map": "/FintechHomework/static/js/453.ffb42ed8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c264c491.js"
+  ]
+}
